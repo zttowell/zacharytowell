@@ -1,9 +1,13 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-<title>ZacharyTowell.com</title>
+<title>
+	ZacharyTowell.com
+</title>
 </head>
 <body>
-<h1>Under construction</h1>
+<h1>
+	Under construction
+</h1>
 </body>
 </html>
